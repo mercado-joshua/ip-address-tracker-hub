@@ -11,11 +11,9 @@
 
 
 ## Type
----
 Converted website from design mockup.
 
 ## Goal
----
 1. To practice implementing mobile-first approach and css layout development like grid, flex-box and media queries.
 
 2. Convert website based on given web design specifications.
@@ -23,7 +21,6 @@ Converted website from design mockup.
 3. Practice fetching data and integrating third-party api's in the web application.
 
 ## Description
----
 ### Purpose:
 A finished coding challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0/hub/ip-address-tracker-HJf3g8eEc).
 I took the challenge to test and practice my responsive layout skill.
