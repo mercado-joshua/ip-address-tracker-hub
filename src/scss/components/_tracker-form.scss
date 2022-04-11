@@ -1,0 +1,19 @@
+.tracker-form {
+    overflow: hidden;
+    border-radius: .5rem;
+
+    > .ip {
+        border: 0;
+        outline: 0;
+        padding: 0 1rem;
+    }
+
+    > .submit-btn {
+        background: #000;
+        padding: .8rem 1rem;
+
+        > .icon {
+            color: #fff;
+        }
+    }
+}
